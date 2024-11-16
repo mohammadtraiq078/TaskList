@@ -6,6 +6,10 @@
 <a href="https://packagist.org/packages/laravel/framework"><img src="https://img.shields.io/packagist/v/laravel/framework" alt="Latest Stable Version"></a>
 <a href="https://packagist.org/packages/laravel/framework"><img src="https://img.shields.io/packagist/l/laravel/framework" alt="License"></a>
 </p>
+Task-List Project:
+
+this project represents a simple tool sorts your tasks as a list, you can add,remove,edite tasks, and it'll show you the acheived tasks,
+this project was built using laravel, Sql, Tailwind,Html.
 
 ## About Laravel
 
